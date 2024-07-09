@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xc2f&show_icons=true&rank_icon=github)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xc2f&show_icons=true&rank_icon=percentile)
 
 
 
