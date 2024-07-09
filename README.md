@@ -2,6 +2,7 @@
 
 [![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact)](https://github.com/xc2f)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
