@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/xc2f">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f" />
-</a>
-
+[![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact)](https://github.com/xc2f)
 
 
 
