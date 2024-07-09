@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://github.com/xc2f">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f" />
 </a>
 
 
