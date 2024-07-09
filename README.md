@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-[![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact)](https://github.com/xc2f)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xc2f&show_icons=true)
+![最常使用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=xc2f&layout=compact&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xc2f&show_icons=true&locale=cn)
 
 
 
